@@ -1,5 +1,5 @@
 # Lost and Found Animal Data Analysis
-***The dataset contains the animals (dog breeds) lost and found in Vancouver since 1999. The dataset contains 674 records and 6 attributes (Breed, Color, Date, Name, Sex, and State). There are 5 breeds of dogs listed, and its gender could be (M = Male, F = Female, M/N or F/S = Neutered/Spayed and X = Unknown). The pets are either “Matched” i.e. reunited with their owner, “Lost” which means still missing, and “Found” recently found but not matched.  From this dataset, we want to answer: “What is the total percent of lost and found animals in the dataset by Breed?”![image](https://github.com/user-attachments/assets/19e66be3-0cdc-4a14-ad59-134affafb8e7)
+***The dataset contains the animals (dog breeds) lost and found in Vancouver since 1999. The dataset contains 674 records and 6 attributes (Breed, Color, Date, Name, Sex, and State). There are 5 breeds of dogs listed, and its gender could be (M = Male, F = Female, M/N or F/S = Neutered/Spayed and X = Unknown). The pets are either “Matched” i.e. reunited with their owner, “Lost” which means still missing, and “Found” recently found but not matched.  From this dataset, we want to answer: “What is the total percent of lost and found animals in the dataset by Breed?”
 
 
 ## Data Wrangling
