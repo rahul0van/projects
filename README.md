@@ -98,7 +98,7 @@ To provide an overview of the dataset, highlighting trends and patterns in lost 
 - A summary report detailing animal distributions by breed, state, and gender.
 - Visualizations to communicate trends effectively.
 
-  <img width="468" alt="image" src="https://github.com/user-attachments/assets/64bbe29a-bcf5-4a1f-99b2-112cd7e0d32b" />
+  <img width="396" alt="image" src="https://github.com/user-attachments/assets/10999b6e-225f-4b97-b1e6-3d63409664b2" />
 
 
 ---
@@ -159,7 +159,7 @@ To uncover patterns and relationships within the data, such as whether spayed/ne
 - Data-driven recommendations for improving animal recovery strategies.
 - A comprehensive dashboard summarizing exploratory findings.
 
- <img width="396" alt="image" src="https://github.com/user-attachments/assets/10999b6e-225f-4b97-b1e6-3d63409664b2" />
+ <img width="781" alt="image" src="https://github.com/user-attachments/assets/62d66271-5c0e-4207-8028-762c3d8f5654" />
 
 ---
 
