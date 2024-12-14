@@ -5,6 +5,8 @@ For the Exploratory questions:
 1.	Are animals reported as spayed/neutered more likely to be found than those not spayed/neutered?
 2.	Is there a relationship between the breed of an animal and the likelihood of it being lost or found?
 
+  <img width="1059" alt="image" src="https://github.com/user-attachments/assets/0dda15eb-aa4d-4463-8a06-9921797bb7b9" />
+ 
 
 ## Data Wrangling
 
