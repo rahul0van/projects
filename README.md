@@ -55,8 +55,7 @@ The dataset consisted of **674 records** detailing animal attributes such as bre
     - System-efficient (Parquet) for automated analytics workflows.
 
 ### Tools and Technologies
-- **AWS Services**: S3, Glue DataBrew
-- **Programming**: Python for data preprocessing (optional)
+- **AWS Services**: S3, Glue DataBrew, Reciepe Jobs
 - **Data Formats**: CSV and Parquet
 
 ### Deliverables
@@ -92,8 +91,8 @@ To provide an overview of the dataset, highlighting trends and patterns in lost 
   - Saved the final pipeline output in separate folders for system and user use.
 
 ### Tools and Technologies
-- **AWS Services**: Glue Visual ETL, Athena
-- **Visualization**: CloudWatch Dashboards, Tableau
+- **AWS Services**: Glue Visual ETL, Amazon S3, 
+- **Visualization**: CloudWatch Dashboards
 
 ### Deliverables
 - A summary report detailing animal distributions by breed, state, and gender.
@@ -152,9 +151,8 @@ To uncover patterns and relationships within the data, such as whether spayed/ne
   - Saved enriched datasets in user-readable and system-efficient formats in the curated bucket.
 
 ### Tools and Technologies
-- **AWS Services**: Glue ETL, Athena
-- **Programming**: Python (Pandas, Seaborn for plotting)
-- **Visualization**: Tableau, Power BI, AWS QuickSight
+- **AWS Services**: Glue ETL, Amazon S3, IAM, Backup and Replecation
+- **Visualization**: CloudWatch, CloudTrail
 
 ### Deliverables
 - Insights into recovery trends by breed and spayed/neutered status.
