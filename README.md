@@ -159,8 +159,7 @@ To uncover patterns and relationships within the data, such as whether spayed/ne
 - Data-driven recommendations for improving animal recovery strategies.
 - A comprehensive dashboard summarizing exploratory findings.
 
-  <img width="468" alt="image" src="https://github.com/user-attachments/assets/d50110e1-39c0-40bd-ac4e-d9ab13e92e56" />
-
+ <img width="396" alt="image" src="https://github.com/user-attachments/assets/10999b6e-225f-4b97-b1e6-3d63409664b2" />
 
 ---
 
