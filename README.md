@@ -1,5 +1,9 @@
 # Lost and Found Animal Data Analysis
-The dataset contains the animals (dog breeds) lost and found in Vancouver since 1999. The dataset contains 674 records and 6 attributes (Breed, Color, Date, Name, Sex, and State). There are 5 breeds of dogs listed, and its gender could be (M = Male, F = Female, M/N or F/S = Neutered/Spayed and X = Unknown). The pets are either “Matched” i.e. reunited with their owner, “Lost” which means still missing, and “Found” recently found but not matched.  From this dataset, we want to answer: “What is the total percent of lost and found animals in the dataset by Breed?”
+The dataset contains the animals (dog breeds) lost and found in Vancouver since 1999. The dataset contains 674 records and 6 attributes (Breed, Color, Date, Name, Sex, and State). There are 5 breeds of dogs listed, and its gender could be (M = Male, F = Female, M/N or F/S = Neutered/Spayed and X = Unknown). The pets are either “Matched” i.e. reunited with their owner, “Lost” which means still missing, and “Found” recently found but not matched.  
+From this dataset, we want to answer: “What is the total percent of lost and found animals in the dataset by Breed?” As Descreptive Analysis Question and
+For the Exploratory questions:
+1.	Are animals reported as spayed/neutered more likely to be found than those not spayed/neutered?
+2.	Is there a relationship between the breed of an animal and the likelihood of it being lost or found?
 
 
 ## Data Wrangling
@@ -93,6 +97,9 @@ To provide an overview of the dataset, highlighting trends and patterns in lost 
 - A summary report detailing animal distributions by breed, state, and gender.
 - Visualizations to communicate trends effectively.
 
+  <img width="468" alt="image" src="https://github.com/user-attachments/assets/64bbe29a-bcf5-4a1f-99b2-112cd7e0d32b" />
+
+
 ---
 
 ## Exploratory Analysis
@@ -151,6 +158,9 @@ To uncover patterns and relationships within the data, such as whether spayed/ne
 - Insights into recovery trends by breed and spayed/neutered status.
 - Data-driven recommendations for improving animal recovery strategies.
 - A comprehensive dashboard summarizing exploratory findings.
+
+  <img width="468" alt="image" src="https://github.com/user-attachments/assets/d50110e1-39c0-40bd-ac4e-d9ab13e92e56" />
+
 
 ---
 
